@@ -1,3 +1,3 @@
-# Projects in Machine Learnign Hackathon's
+# Projects in Machine Learning Hackathon's
 
 - News Categories Classification (NLP)
